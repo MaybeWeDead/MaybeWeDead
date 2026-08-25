@@ -117,8 +117,8 @@ _Tar.gz · Repository_
 ## ✦ contact
 
 <p align="center">
-  <a href="mailto:vex@proton.me"><img src="https://img.shields.io/badge/-email-ffffff?style=flat&logo=protonmail&logoColor=000000" /></a>
-  <a href="https://github.com/Vex"><img src="https://img.shields.io/badge/-github-ffffff?style=flat&logo=github&logoColor=000000" /></a>
+  <a href="mailto:hktline@proton.me"><img src="https://img.shields.io/badge/-email-ffffff?style=flat&logo=protonmail&logoColor=000000" /></a>
+  <a href="https://github.com/MaybeWeDead"><img src="https://img.shields.io/badge/-github-ffffff?style=flat&logo=github&logoColor=000000" /></a>
   <a href="https://vex.dev"><img src="https://img.shields.io/badge/-website-ffffff?style=flat&logo=about.me&logoColor=000000" /></a>
 </p>
 
