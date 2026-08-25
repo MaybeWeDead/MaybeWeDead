@@ -45,7 +45,7 @@ _C++ · X11 · WM_
 Порт Hyprland под X11. Свой оконный менеджер с нуля.  
 Анимации, тайлинг, минимализм — как у Wayland, но на старом добром X.
 
-> `github.com/vex/vexland`
+> `github.com/MaybeWeDead/vexland`
 
 <br>
 
@@ -54,7 +54,7 @@ _Lua · Alpine Linux · отказоустойчивость_
 Дистрибутив Linux, собранный под себя. Alpine-based.  
 Всё управление — через Lua-скрипты. Никакого лишнего мусора.
 
-> `github.com/vex/vexos`
+> `github.com/MaybeWeDead/vexos`
 
 <br>
 
@@ -63,7 +63,7 @@ _Lua · Package Management_
 Пакетный менеджер для VexOS.  
 Лёгкий, быстрый, без зависимостей. Скачивает и ставит из Vex-Packages.
 
-> `github.com/vex/vex`
+> `github.com/MaybeWeDead/vex`
 
 <br>
 
@@ -72,7 +72,7 @@ _Tar.gz · Repository_
 Репозиторий с бинарными пакетами для Vex.  
 Просто архивы. Без сложной инфраструктуры.
 
-> `github.com/vex/vex-packages`
+> `github.com/MaybeWeDead/vex-packages`
 
 <br>
 
