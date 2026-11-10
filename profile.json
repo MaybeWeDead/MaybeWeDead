@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "MaybeWeDead",
-  "seed": "#30A699",
-  "seedFromAvatar": true,
+  "seed": "#2BB3C0",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
