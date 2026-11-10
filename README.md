@@ -1,131 +1,25 @@
-<!--
-  ═══════════════════════════════════════
-  Vex · C++ / Lua / Linux
-  Белый минимализм · Никаких эмодзи
-  ═══════════════════════════════════════
--->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=28&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=480&lines=Vex+%7C+C%2B%2B+%26+Lua+developer;Linux+%2F+WM+architect" alt="typing" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m BiteMe"></picture>
 
-<p align="center">
-  <span style="font-family: 'Times New Roman', serif; color: #444; font-size: 17px; letter-spacing: 2px;">
-    — build · script · control —
-  </span>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="25.530%" alt=""></picture><a href="https://t.me/biterne"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.335%" alt="steam"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.480%" alt="reddit"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="25.530%" alt=""></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<br>
+<a href="https://github.com/MaybeWeDead/vexland"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vexland-dark.svg"><img src="assets/project-vexland-light.svg" width="49%" alt="vexland"></picture></a>&nbsp;<a href="https://github.com/MaybeWeDead/custom-cursor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-custom-cursor-dark.svg"><img src="assets/project-custom-cursor-light.svg" width="49%" alt="custom-cursor"></picture></a>
 
-## ✦ identity
+<a href="https://github.com/MaybeWeDead/ChudStore"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chudstore-dark.svg"><img src="assets/project-chudstore-light.svg" width="49%" alt="ChudStore"></picture></a>&nbsp;<a href="https://github.com/MaybeWeDead/vexos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vexos-dark.svg"><img src="assets/project-vexos-light.svg" width="49%" alt="vexos"></picture></a>
 
-> _Свой стек. Свои правила. Своя система._
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-— C++ (современный стандарт, память, производительность)  
-— Lua (скриптовой слой для всего)  
-— Linux (Alpine, Arch, Gentoo · сборка с нуля)  
-— Window Managers (пишу свои, портирую чужие)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
----
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/MaybeWeDead?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<br>
+<a href="https://metawka.github.io/expressive-profile/?from=MaybeWeDead"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-## ✦ projects
-
-<br>
-
-**◈ Vexland**  
-_C++ · X11 · WM_  
-Порт Hyprland под X11. Свой оконный менеджер с нуля.  
-Анимации, тайлинг, минимализм — как у Wayland, но на старом добром X.
-
-> `github.com/MaybeWeDead/vexland`
-
-<br>
-
-**◈ VexOS**  
-_Lua · Alpine Linux · отказоустойчивость_  
-Дистрибутив Linux, собранный под себя. Alpine-based.  
-Всё управление — через Lua-скрипты. Никакого лишнего мусора.
-
-> `github.com/MaybeWeDead/vexos`
-
-<br>
-
-**◈ Vex**  
-_Lua · Package Management_  
-Пакетный менеджер для VexOS.  
-Лёгкий, быстрый, без зависимостей. Скачивает и ставит из Vex-Packages.
-
-> `github.com/MaybeWeDead/vex`
-
-<br>
-
-**◈ Vex-Packages**  
-_Tar.gz · Repository_  
-Репозиторий с бинарными пакетами для Vex.  
-Просто архивы. Без сложной инфраструктуры.
-
-> `github.com/MaybeWeDead/vex-packages`
-
-<br>
-
----
-
-<br>
-
-## ✦ stack
-
-<p>
-  <img src="https://img.shields.io/badge/-C++-ffffff?style=flat&logo=cplusplus&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Lua-ffffff?style=flat&logo=lua&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-CMake-ffffff?style=flat&logo=cmake&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-X11-ffffff?style=flat&logo=xorg&logoColor=000000" />
-</p>
-
-<p style="color: #555; font-size: 14px; letter-spacing: 0.5px;">
-  ▸ Alpine · Arch · Gentoo · NixOS<br>
-  ▸ Hyprland · i3 · sway · awesome · + Vexland (свой)
-</p>
-
-<br>
-
----
-
-<br>
-
-## ✦ stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vex&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=bbbbbb&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vex&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333" width="48%" />
-</p>
-
-<br>
-
----
-
-<br>
-
-## ✦ contact
-
-<p align="center">
-  <a href="mailto:hktline@proton.me"><img src="https://img.shields.io/badge/-email-ffffff?style=flat&logo=protonmail&logoColor=000000" /></a>
-  <a href="https://github.com/MaybeWeDead"><img src="https://img.shields.io/badge/-github-ffffff?style=flat&logo=github&logoColor=000000" /></a>
-  <a href="https://vex.dev"><img src="https://img.shields.io/badge/-website-ffffff?style=flat&logo=about.me&logoColor=000000" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <span style="font-size: 12px; color: #aaa; letter-spacing: 3px;">
-    ✦ · · · &nbsp; my system · my rules &nbsp; · · · ✦
-  </span>
-</p>
+</div>
