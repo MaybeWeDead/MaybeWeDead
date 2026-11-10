@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/MaybeWeDead/vexland"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vexland-dark.svg"><img src="assets/project-vexland-light.svg" width="49%" alt="vexland"></picture></a>&nbsp;<a href="https://github.com/MaybeWeDead/custom-cursor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-custom-cursor-dark.svg"><img src="assets/project-custom-cursor-light.svg" width="49%" alt="custom-cursor"></picture></a>
-
-<a href="https://github.com/MaybeWeDead/ChudStore"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chudstore-dark.svg"><img src="assets/project-chudstore-light.svg" width="49%" alt="ChudStore"></picture></a>&nbsp;<a href="https://github.com/MaybeWeDead/vexos"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vexos-dark.svg"><img src="assets/project-vexos-light.svg" width="49%" alt="vexos"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
