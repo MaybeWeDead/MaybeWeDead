@@ -1,5 +1,5 @@
 {
- "key": "bc0590ca",
+ "key": "ee128ac",
  "stars": 6,
  "contributions": 48,
  "repos": 9,
@@ -120,15 +120,19 @@
    {
     "c": 0,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 4
  },
  "pins": [],
