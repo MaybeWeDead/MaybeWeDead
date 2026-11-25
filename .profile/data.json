@@ -1,5 +1,5 @@
 {
- "key": "cacc910d",
+ "key": "6cbf14e",
  "stars": 6,
  "contributions": 48,
  "repos": 9,
@@ -115,9 +115,13 @@
    {
     "c": 0,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
