@@ -1,5 +1,5 @@
 {
- "key": "7ecab1d0",
+ "key": "baca1211",
  "stars": 6,
  "contributions": 48,
  "repos": 9,
@@ -130,9 +130,13 @@
    {
     "c": 0,
     "day": 27,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 28,
+    "today": true
+   }
   ]
  ],
  "streak": {
